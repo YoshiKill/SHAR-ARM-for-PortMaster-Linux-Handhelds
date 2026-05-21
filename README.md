@@ -87,7 +87,7 @@ Ensure you are in the root directory of the project (`SHAR-Linux`), **not** insi
 ### Step 0: Get git clone of repository 
 
 ```bash
-git clone https://github.com/твой_ник/SHAR-ARM-for-PortMaster-Linux-Handhelds.git
+git clone https://github.com/YoshiKill/SHAR-ARM-for-PortMaster-Linux-Handhelds.git
 cd SHAR-ARM-for-PortMaster-Linux-Handhelds
 
 ```
