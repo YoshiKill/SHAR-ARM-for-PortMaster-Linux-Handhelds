@@ -83,6 +83,15 @@ An AARCH64 build can be produced using a cross-compilation environment inside a 
 
 Ensure you are in the root directory of the project (`SHAR-Linux`), **not** inside the build folder, before running Docker commands.
 
+---
+### Step 0: Get git clone of repository 
+
+```bash
+git clone https://github.com/твой_ник/SHAR-ARM-for-PortMaster-Linux-Handhelds.git
+cd SHAR-ARM-for-PortMaster-Linux-Handhelds
+
+```
+
 ### Step 1: Project Configuration (CMake)
 
 Run the container to generate the build configuration files for the `aarch64` architecture:
