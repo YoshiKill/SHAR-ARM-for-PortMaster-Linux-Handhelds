@@ -1,6 +1,6 @@
 # 🍩 SHAR-ARM for PortMaster / Linux Handhelds
 
-This is a Linux fork of [ZenoArrows' Nintendo Switch & PS Vita port](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run) of *The Simpsons Hit & Run*, based on the leaked source code. The upstream port targets the Nintendo Switch and PS Vita; this fork focuses on **native Linux desktop support and optimization for ARM64 (AArch64) handheld devices**.
+This is a Linux fork of [ZenoArrows' Nintendo Switch & PS Vita port](https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run) and [Austin-Metke arm port](https://github.com/Austin-Metke/SHAR-Linux) of *The Simpsons Hit & Run*, based on the leaked source code. The upstream port targets the Nintendo Switch and PS Vita; this fork focuses on **native Linux desktop support and optimization for ARM64 (AArch64) handheld devices**.
 
 The full game should be playable, including local multiplayer in the bonus game. The port is however still incomplete, so some glitches can be observed and some visual effects are missing compared to the PC version.
 
