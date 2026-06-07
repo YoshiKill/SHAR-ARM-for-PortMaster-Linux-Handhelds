@@ -16,6 +16,7 @@ This port uses the original PC assets, so you will need to have the PC version o
 * 🎬 Make sure you're using the original `.rmv` movie files in the `movies` folder rather than the converted `.bk2` files that older releases of the port required.
 * 📂 Place your compiled binary (`shar`) directly inside the folder alongside your PC game assets.
 
+*The PortMaster Ready zip folder with out game data can be found [heare](https://cloud.40gb.club/s/ASmRYNRAZzdE3QS) 
 ---
 
 ## ⚙️ Runtime Dependencies
